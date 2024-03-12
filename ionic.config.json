@@ -1,0 +1,7 @@
+{
+  "name": "demoo",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
